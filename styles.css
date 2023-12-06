@@ -23,7 +23,7 @@
         /* Black background with opacity */
         background-color: black;
         /* Add a pointer on hover */
-         cursor: pointer
+         cursor: pointer;
         /* Use a grid for easy centering */
         grid: ;
         /* Center vertically and horizontally */
@@ -41,7 +41,7 @@
         /* Font family "sans-serif" */
         font-family: sans-serif;
         /* Centered text */
-        text-align: center
+        text-align: center;
         /* Line height ( idem height ) */
         line-height: ;
         /* Display as a block */
@@ -58,7 +58,7 @@
         height: 2rem;
         /* White border of 2px */
         border-radius: 2px;
-        border-color: white
+        border-color: white;
         /* Rounded border */
         border: ;
     }
@@ -70,7 +70,7 @@
         padding: 1rem;
         /* White border of 2px */
         border-radius: 2px;
-        border-color: white
+        border-color: white;
     }
 
     .overlay>figure>img {
